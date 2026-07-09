@@ -1,4 +1,5 @@
-# Maather Alqarni | Computer Engineering & Networks Student
+# Maather Alqarni 
+Passionate about robotics, computer networks, and developing practical engineering projects.
 
 ## Skills
 - Python
@@ -11,4 +12,4 @@
 - 🤖 Robotics
 - 🌐 Computer Networks
 - 💻 Programming
-- 🚀 Building Practical Projects
+  
